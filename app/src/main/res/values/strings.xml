@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Dice Roller (Kotlin)</string>
+    <string name="roll">Roll</string>
+    <string name="roll2">TextView</string>
+    <string name="diceOneTitle">Dice One</string>
+    <string name="diceTwoTitle">Dice Two</string>
+    <string name="success">One of the die rolled higher than 4</string>
+    <string name="luckyNumber">Lucky number has been rolled by a dice!</string>
+    <string name="hint">Hint</string>
+</resources>
